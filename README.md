@@ -1,6 +1,6 @@
 # poetjs
 
-Node.js CLI tool
+Poetry Assitant (uni coursework)
 
 Run
 
